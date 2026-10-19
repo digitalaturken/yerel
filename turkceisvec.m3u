@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1,showtv
+#EXTINF:-1,SHOWTV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1,Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
@@ -59,3 +59,9 @@ https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
 #EXTINF:-1,CINE 5
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,KANAL S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1,KON TV
+https://canli.kontv.com.tr/live/kontv.m3u8?hls_ctx=4787n46s
+#EXTINF:-1,A HABER
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8
