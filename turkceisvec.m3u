@@ -3,28 +3,36 @@
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1,SHOWTV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
-#EXTINF:-1,Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1,TV 4
-https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
-#EXTINF:-1,TIVI 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-#EXTINF:-1,STAR TV
-https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1,ATV
 https://list.iptvcat.com/my_list/s/fd135b03050c42a473aa651fcdcaec82.m3u8
-#EXTINF:-1,KANAL 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
-#EXTINF:-1,BEYAZ TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1,TL 1
-https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
-#EXTINF:-1,A2 TV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
-#EXTINF:-1,Mavi Karadeniz
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:-1,SHOWMAX
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
 #EXTINF:-1,TV 2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
+#EXTINF:-1,A2 TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+#EXTINF:-1,TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+#EXTINF:-1,BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1,360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1,TV 41
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
+#EXTINF:-1,CINE 5
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TIVI 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1,KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
+#EXTINF:-1,TV 8,5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1,ETV Kayseri
+https://list.iptvcat.com/my_list/s/33b3981aeb375c874bca7cc39d266ea6.m3u8
+#EXTINF:-1,NOW
+https://list.iptvcat.com/my_list/s/a6491f07f94aaa5a272521735def0ac5.m3u8
+#EXTINF:-1,A HABER
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8
 #EXTINF:-1,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,HABER TURK
@@ -35,10 +43,18 @@ https://ensonhaber-live.ercdn.net/tv100/tv100_360p.m3u8
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 #EXTINF:-1,TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:-1,TV 8,5
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1,Kanal 24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+#EXTINF:-1,Haber 61
+https://list.iptvcat.com/my_list/s/31fcc4a716be8000f17a2eb4863cc765.m3u8
+#EXTINF:-1,HALK TV 
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1,Med Muzik
+https://list.iptvcat.com/my_list/s/7c57a8f896693240c3662f792028784e.m3u8
+#EXTINF:-1,TL 1
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+#EXTINF:-1,KANAL 23
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
 #EXTINF:-1,KANAL 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
 #EXTINF:-1,KANAL 58
@@ -47,21 +63,13 @@ https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
 #EXTINF:-1,Olay Turk
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
-#EXTINF:-1,360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1,HALK TV 
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1,TV 41
-https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
-#EXTINF:-1,KANAL 23
-https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
-#EXTINF:-1,SHOWMAX
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
-#EXTINF:-1,CINE 5
-https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KANAL S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1,KON TV
 https://canli.kontv.com.tr/live/kontv.m3u8?hls_ctx=4787n46s
-#EXTINF:-1,A HABER
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8
+#EXTINF:-1,Number1 DAMAR
+https://list.iptvcat.com/my_list/s/ab4363ea959435f3593069cc9ea92c75.m3u8
+#EXTINF:-1,Numberhttps://list.iptvcat.com/my_list/s/f40cfc73c1036024464cae946f62b3ef.m3u81 DANCE
+https://list.iptvcat.com/my_list/s/0a243a0f3563893e9704f0ddb8439882.m3u8
+#EXTINF:-1,Power Türk Taptaze
+https://list.iptvcat.com/my_list/s/4585838536fb653a0c0127d37c1c4696.m3u8
