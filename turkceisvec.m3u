@@ -29,10 +29,10 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 #EXTINF:-1,TV 8,5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1,ETV Kayseri
-https://list.iptvcat.com/my_list/s/33b3981aeb375c874bca7cc39d266ea6.m3u8
-#EXTINF:-1,NOW
-https://list.iptvcat.com/my_list/s/a6491f07f94aaa5a272521735def0ac5.m3u8
+#EXTINF:-1,ATV
+https://www.ecanlitvizle.live/embed.php?kanal=atv-canli-hd-yayin
+#EXTINF:-1,ATV 2
+https://www.ecanlitvizle.live/embed.php?kanal=atv-canli-hd-yayin&quot
 #EXTINF:-1,A HABER
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8
 #EXTINF:-1,TRT HABER
